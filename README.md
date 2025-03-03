@@ -81,7 +81,7 @@
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-Enjoy the diverse features of 𝐊𝐄𝐈𝐓𝐇-𝐌𝐃  to enhance your Whatsapp more enjoyable
+Enjoy the diverse features of N.E.P.H - 𝐌𝐃  to enhance your Whatsapp more enjoyable
 
 
 ### Credits to:
