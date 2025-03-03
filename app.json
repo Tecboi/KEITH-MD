@@ -1,10 +1,10 @@
 {
-  "name": "KEITH-MD",
+  "name": "NEPH-MD",
   "description": "This is a simple whatsapp bot built with nodejs to make your WhatsApp enjoyable ",
   "keywords": [
     "bot",
     "whatsapp",
-    "keith",
+    "neph",
     "whatsapp-stickers",
     "anime",
     "whatsapp-bot",
@@ -16,7 +16,7 @@
   ],
   "website": "https://github.com/Keithkeizzah/KEITH-MD#readme",
   "repository": "https://github.com/Keithkeizzah/KEITH-MD.git",
-  "logo": "https://i.imgur.com/dAtHp2k.jpeg",
+  "logo": "https://iili.io/33aVMdB.jpg",
   "success_url": "/",
   "env": {
     "PREFIX": {
