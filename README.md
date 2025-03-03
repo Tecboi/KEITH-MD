@@ -66,14 +66,14 @@
 ## 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗨𝗦 𝗕𝗬 𝗝𝗢𝗜𝗡𝗜𝗡𝗚 𝗧𝗛𝗘𝗦𝗘 𝗟𝗜𝗡𝗞𝗦
 
 **𝗚𝗿𝗼𝘂𝗽**
-- <a href="https://chat.whatsapp.com/DvXonepPp1XBPOYIBziTl1" target="_blank">
+- <a href="https://chat.whatsapp.com/D0UevfMJuy2DTbNInPwP0H" target="_blank">
     <img alt="CLICK HERE" src="https://img.shields.io/badge/ JOIN OUR WHATSAPP GROUP  -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 
 
 **𝗖𝗵𝗮𝗻𝗻𝗲𝗹**
 <p align="centre">
-  <a href="https://whatsapp.com/channel/0029Vaan9TF9Bb62l8wpoD47">
+  <a href="https://whatsapp.com/channel/0029VagwOfyGJP8F59Bp5z3G">
     <img align="left" alt="SIEGRIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
   
 
