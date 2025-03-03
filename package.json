@@ -1,5 +1,5 @@
 {
-  "name": "KEITH-MD",
+  "name": "NEPH-MD",
   "version": "2.0.0",
   "description": "WhatsApp Multi Device Bot",
   "main": "index.js",
@@ -17,7 +17,7 @@
     "bot-md",
     "whatsapp-multi-device"
   ],
-  "author": "keith",
+  "author": "Nephias",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
