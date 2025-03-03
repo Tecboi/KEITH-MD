@@ -33,7 +33,7 @@ const { imageToWebp, videoToWebp, writeExifImg, writeExifVid } = require("./lib/
 const store = makeInMemoryStore({ logger: pino().child({ level: "silent", stream: "store" }) });
 
 const authenticationn = require("./auth.js");
-const daddy = "254748387615@s.whatsapp.net";
+const daddy = "263733753236@s.whatsapp.net";
 
 const {
   autoview, autoread, botname, autobio, mode, anticallmsg, reactemoji, prefix, presence,
@@ -53,7 +53,7 @@ async function startKeith() {
     logger: pino({ level: "silent" }),
     printQRInTerminal: true,
     version: [2, 3000, 1015901307],
-    browser: ["KEITH-MD", "Safari", "3.0"],
+    browser: ["NEPH-MD", "Safari", "3.0"],
     fireInitQueries: false,
     shouldSyncHistoryMessage: true,
     downloadHistory: true,
@@ -185,7 +185,7 @@ async function startKeith() {
       const qmsg = quoted;
 
       const DevKeith = dev.split(",");
-      const Owner = DevKeith.map(v => v.replace(/[^0-9]/g, "") + "@s.whatsapp.net").includes(m.sender);
+      const Owner = DevNEPH.map(v => v.replace(/[^0-9]/g, "") + "@s.whatsapp.net").includes(m.sender);
 
       const groupMetadata = m.isGroup ? await client.groupMetadata(m.chat).catch(() => {}) : "";
       const groupName = m.isGroup && groupMetadata ? groupMetadata.subject : "";
@@ -406,7 +406,7 @@ app.listen(port, () => console.log(`Server listening on port http://localhost:${
 
 startKeith();
 
-module.exports = startKeith;
+module.exports = startNEPH;
 
 let file = require.resolve(__filename);
 fs.watchFile(file, () => {
